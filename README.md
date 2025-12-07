@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **snehilraj9570@gmail.com**
 
-- ⚡ Fun fact **I am a cracker who wants to become dynamite.**
+- ⚡ Fun fact **Drop in the ocean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
