@@ -27,11 +27,11 @@
 🎓 **B.Tech in Computer Engineering** @ **NIAMT, Ranchi** (CGPA: **9.04/10**)  
 💻 Passionate about **Full-Stack Development**, **Java**, and **Problem Solving**  
 🧠 Strong foundation in **DSA, OS, DBMS, OOP, and Core CS**  
-📊 Interested in **AI & Machine Learning** (NumPy, Pandas, Matplotlib)  
+📊 Interested in **AI & Machine Learning** 
 
 🏆 **1st Prize Winner – Space Hackathon 2024 (Individual)**  
 🏅 **Finalist – Smart India Hackathon (SIH)**  
-🥇 **All India Rank – Indian Intelligence Test (Dainik Jagran)**  
+🥇 **All India Rank 1 – Indian Intelligence Test (Dainik Jagran)**  
 
 ---
 
