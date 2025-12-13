@@ -1,35 +1,126 @@
 <h1 align="center">Hi 👋, I'm Snehil Raj</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehil7903&label=Profile%20views&color=0e75b6&style=flat" alt="snehil7903" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehil7903" alt="snehil7903" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
-- Quite Passionate to explore Space and its randomness.
-- Doing Research to write Algorithms based on what we see and what we cannot.
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **snehilraj9570@gmail.com**
-
-- ⚡ Fun fact **Drop in the ocean**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/snehil raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehil raj" height="30" width="40" /></a>
-<a href="https://fb.com/snehil raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="snehil raj" height="30" width="40" /></a>
-<a href="https://instagram.com/snehil_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snehil_raj_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/snehil raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snehil raj" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+React+%7C+Node+Developer;SIH+Finalist+%7C+Hackathon+Winner;Lifelong+Learner+%26+Problem+Solver" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/snehil-raj-987a1827a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:snehilraj9570@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Snehil7903">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil7903&show_icons=true&locale=en&layout=compact" alt="snehil7903" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehil7903&label=Profile+Views&color=blue&style=flat-square" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehil7903&show_icons=true&locale=en" alt="snehil7903" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehil7903&" alt="snehil7903" /></p>
+## 🚀 About Me  
+
+🎓 **B.Tech in Computer Engineering** @ **NIAMT, Ranchi** (CGPA: **9.04/10**)  
+💻 Passionate about **Full-Stack Development**, **Java**, and **Problem Solving**  
+🧠 Strong foundation in **DSA, OS, DBMS, OOP, and Core CS**  
+📊 Interested in **AI & Machine Learning** (NumPy, Pandas, Matplotlib)  
+
+🏆 **1st Prize Winner – Space Hackathon 2024 (Individual)**  
+🏅 **Finalist – Smart India Hackathon (SIH)**  
+🥇 **All India Rank – Indian Intelligence Test (Dainik Jagran)**  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Programming  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+
+### ⚙️ Backend & Database  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### 📊 Data & AI  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+---
+
+## 💼 Experience  
+
+### 🔧 Embedded Systems / Product Trainee — **OTS World**  
+📍 Ranchi | 🗓️ June 2024 – July 2024  
+
+- Developed **Water Level Monitoring Systems** using Arduino  
+- Built & tested **Home Automation prototypes**  
+- Assisted in **product demos and client interactions**  
+- Learned **manufacturing workflow & quality assurance**
+
+---
+
+## 📌 Featured Projects  
+
+### ♻️ Domestic Waste Management System *(SIH Finalist)*  
+**Tech:** React, Node, Express, MongoDB  
+- Full-stack platform for waste pickup scheduling & tracking  
+- User/Admin dashboards with secure REST APIs  
+- Digitized manual waste management workflows  
+
+---
+
+### 🚀 Zars – Space Exploration Data Analysis *(1st Prize)*  
+**Type:** Individual Hackathon Project  
+- Data-driven solution for space mission challenges  
+- Designed workflows for **collection, preprocessing & analysis**  
+- Focused on **anomaly detection & risk reduction**
+
+---
+
+### 💼 JobPro – Job Search Platform  
+**Tech:** Next.js, React, MongoDB  
+- Job listings with dashboards & analytics  
+- Community-driven career support  
+- Smart suggestions for skills & courses  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehil7903&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehil7903&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📫 Let’s Connect  
+
+- 📧 **Email:** snehilraj9570@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/snehil-raj-987a1827a](https://www.linkedin.com/in/snehil-raj-987a1827a/)  
+- 💻 **GitHub:** [github.com/Snehil7903](https://github.com/Snehil7903)
+
+---
+
+<p align="center">
+  <i>“Consistency, curiosity, and code — that’s how I build.”</i>
+</p>
+
