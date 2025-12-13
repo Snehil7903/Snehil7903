@@ -103,12 +103,19 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🧠 DSA & Problem Solving (LeetCode)
+
+🔗 **LeetCode Profile:**  
+👉 https://leetcode.com/u/Snehil_Raj/
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehil7903&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehil7903&theme=tokyonight" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/Snehil_Raj?theme=dark&font=Karma&ext=contest" />
 </p>
+
+- Solving problems using **Java**
+- Strong in **Arrays, Strings, Recursion, Trees, Graphs, DP**
+- Focus on **clean logic + optimized solutions**
+
 
 ---
 
