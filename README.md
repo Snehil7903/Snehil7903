@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java And mySQL**
+- 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
+- Quite Passionate to explore Space and its randomness.
+- Doing Research to write Algorithms based on what we see and what we cannot.
 
 - 💬 Ask me about **Java**
 
