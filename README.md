@@ -11,9 +11,6 @@
   <a href="mailto:snehilraj9570@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Snehil7903">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
@@ -123,7 +120,6 @@
 
 - 📧 **Email:** snehilraj9570@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/snehil-raj-987a1827a](https://www.linkedin.com/in/snehil-raj-987a1827a/)  
-- 💻 **GitHub:** [github.com/Snehil7903](https://github.com/Snehil7903)
 
 ---
 
