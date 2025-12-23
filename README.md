@@ -94,7 +94,9 @@
 - Built ML models (Logistic, KNN, SVM, Decision Tree) for hazard prediction  
 - Used **ROC-AUC** for imbalanced classification  
 - Applied **K-Means + PCA** for asteroid risk analysis  
-- Deployed interactive web app with real-time predictions  
+- Deployed interactive web app with real-time predictions
+🔗 **Live Demo (Streamlit):** https://asteroid-hazard-prediction-by-snehil.streamlit.app/
+ 
 
 ---
 
