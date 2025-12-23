@@ -95,8 +95,7 @@
 - Used **ROC-AUC** for imbalanced classification  
 - Applied **K-Means + PCA** for asteroid risk analysis  
 - Deployed interactive web app with real-time predictions
-🔗 **Live Demo (Streamlit):** https://asteroid-hazard-prediction-by-snehil.streamlit.app/
- 
+- 🔗 **Live Demo (Streamlit):** https://asteroid-hazard-prediction-by-snehil.streamlit.app/
 
 ---
 
