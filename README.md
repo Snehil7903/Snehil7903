@@ -14,6 +14,9 @@
   <a href="https://leetcode.com/u/Snehil_Raj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  <a href="https://snehilraj.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/profile-green?style=for-the-badge&logo=profile&logoColor=black"/>
+  </a>
 </p>
 
 <p align="center">
