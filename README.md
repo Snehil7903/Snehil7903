@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+<a href="https://snehilraj.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/snehil-raj-987a1827a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -13,9 +16,6 @@
   </a>
   <a href="https://leetcode.com/u/Snehil_Raj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://snehilraj.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/profile-green?style=for-the-badge&logo=profile&logoColor=black"/>
   </a>
 </p>
 
